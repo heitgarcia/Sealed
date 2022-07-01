@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{A471EA10-55C5-40E1-BE84-C7FAEFCE991A}|Default">
+  <MonoDevelop.Ide.ItemProperties.HERANCA PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HERANCA/Program.cs">
+    <Files>
+      <File FileName="HERANCA/Program.cs" Line="23" Column="1" />
+      <File FileName="HERANCA/Entities/Account.cs" Line="11" Column="26" />
+      <File FileName="HERANCA/Entities/BusinessAccount.cs" Line="4" Column="37" />
+      <File FileName="HERANCA/Entities/SavingsAccount.cs" Line="27" Column="1" />
+      <File FileName="HERANCA/Entities/SavingsAccountPlus.cs" Line="6" Column="144" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HERANCA" expanded="True">
+            <Node name="HERANCA" expanded="True">
+              <Node name="Entities" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
